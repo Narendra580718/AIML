@@ -4,11 +4,11 @@
 2. Data Visalization
 3. Data Preprocessing
     3.1 Exploratory Data Analysis (EDA)
-    3.2 Data deaning
+    3.2 Data cleaning
         3.2.1. Null Value Detection
         3.2.2. Data Duplication Handling
         3.2.3. Uniformity in dataset (Datatype)
-        3.2.4. Data Manipulation
+    3.3. Data Manipulation
 4. Split the data (train, test, validation (optional))
 5. Feature Extraction
 6. Select ML/DL Models
