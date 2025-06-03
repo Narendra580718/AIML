@@ -1,6 +1,6 @@
 # Standard Procedure to Develop any ML/DL Models
 
-1. DataCollection (Raw Data)
+1. Data Collection (Raw Data)
 2. Data Visalization
 3. Data Preprocessing
     3.1 Exploratory Data Analysis (EDA)
@@ -17,7 +17,7 @@
     6.3. DL Model
 7. Build and Train the model
 8. Evaluate the Model
-9. Fine tune the model and repeat strep 7 and 8 until you get the better accuracy
+9. Fine tune the model and repeat step 7 and 8 until you get the better accuracy
 10. Justify model using different matrices
 11. Save the model
 12. Infer saved model in your application
