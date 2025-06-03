@@ -6,7 +6,7 @@
     3.1 Exploratory Data Analysis (EDA)
     3.2 Data deaning
         3.2.1. Null Value Detection
-        3.2.2. Data DUplication Handling
+        3.2.2. Data Duplication Handling
         3.2.3. Uniformity in dataset (Datatype)
         3.2.4. Data Manipulation
 4. Split the data (train, test, validation (optional))
